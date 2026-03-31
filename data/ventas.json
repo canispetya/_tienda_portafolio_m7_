@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ad11fdc1-cc54-4258-a24a-aa5c2481061f",
+    "fecha": "2026-03-20T05:26:03.058Z",
+    "detalle": [
+      {
+        "id": "prod-1",
+        "nombre": "Camiseta Básica",
+        "precio": 15,
+        "cantidad": 1
+      }
+    ],
+    "total": 15
+  },
+  {
+    "id": "8bebf090-fcf0-4566-8fbd-e67f3c46d723",
+    "fecha": "2026-03-20T05:42:17.093Z",
+    "detalle": [
+      {
+        "id": "prod-1",
+        "nombre": "Camiseta Básica",
+        "precio": 15,
+        "cantidad": 1
+      },
+      {
+        "id": "prod-3",
+        "nombre": "Zapatos Deportivos",
+        "precio": 50,
+        "cantidad": 1
+      }
+    ],
+    "total": 65
+  },
+  {
+    "id": "22a06db4-dde6-4226-989e-663229d0b316",
+    "fecha": "2026-03-20T07:49:22.408Z",
+    "detalle": [
+      {
+        "id": "prod-1",
+        "nombre": "Camiseta Básica",
+        "precio": 15,
+        "cantidad": 18
+      }
+    ],
+    "total": 270
+  }
+]

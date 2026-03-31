@@ -1,0 +1,72 @@
+[
+  {
+    "id": "prod-1",
+    "nombre": "Camiseta Básica",
+    "precio": 15990,
+    "stock": 0,
+    "imagen": "https://images.unsplash.com/photo-1523381294911-8d3cead13475?w=600"
+  },
+  {
+    "id": "prod-2",
+    "nombre": "Pantalón Jeans",
+    "precio": 30990,
+    "stock": 0,
+    "imagen": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?q=80&w=600"
+  },
+  {
+    "id": "prod-3",
+    "nombre": "Zapatos Deportivos",
+    "precio": 50990,
+    "stock": 14,
+    "imagen": "https://plus.unsplash.com/premium_photo-1682435561654-20d84cef00eb?q=80&w=600"
+  },
+  {
+    "id": "prod-4",
+    "nombre": "Chaqueta de Cuero",
+    "precio": 80990,
+    "stock": 5,
+    "imagen": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=600"
+  },
+  {
+    "id": "prod-5",
+    "nombre": "Gorra Clásica",
+    "precio": 12990,
+    "stock": 30,
+    "imagen": "https://images.unsplash.com/photo-1635650804512-003e5ee6ccac?q=80&w=600"
+  },
+  {
+    "id": "prod-6",
+    "nombre": "Bolso de Mano",
+    "precio": 45990,
+    "stock": 0,
+    "imagen": "https://images.unsplash.com/photo-1566150902887-9679ecc155ba?q=80&w=600"
+  },
+  {
+    "id": "prod-7",
+    "nombre": "Reloj Digital",
+    "precio": 60990,
+    "stock": 10,
+    "imagen": "https://plus.unsplash.com/premium_photo-1681147547346-2d73c90988d8?q=80&w=600"
+  },
+  {
+    "id": "prod-8",
+    "nombre": "Bufanda de Lana",
+    "precio": 18990,
+    "stock": 25,
+    "imagen": "https://images.unsplash.com/photo-1737046299342-69676b7695e6?q=80&w=600"
+  },
+  {
+    "id": "prod-9",
+    "nombre": "Sudadera Hoodie",
+    "precio": 35990,
+    "stock": 0,
+    "imagen": "https://plus.unsplash.com/premium_photo-1673356302125-c77491af8735?q=80&w=600"
+  },
+  {
+    "id": "prod-10",
+    "nombre": "Gafas de Sol",
+    "precio": 25990,
+    "stock": 40,
+    "imagen": "https://plus.unsplash.com/premium_photo-1692340973681-e96b10bda346?q=80&w=600"
+  }
+]
